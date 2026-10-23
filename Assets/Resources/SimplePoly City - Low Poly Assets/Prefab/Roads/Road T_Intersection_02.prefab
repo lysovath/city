@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 400000}
   - component: {fileID: 3300000}
   - component: {fileID: 2300000}
+  - component: {fileID: -2167795992737856441}
   m_Layer: 0
   m_Name: Road T_Intersection_02
   m_TagString: Untagged
@@ -90,3 +91,17 @@ MeshRenderer:
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!114 &-2167795992737856441
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 100000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 556b917640d1c1e49b9e3c35ca61bb24, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: EZGames.SceneCollabTool::SceneObjectIdentifier
+  UniqueID: c3a72635-dafe-448c-a774-82bbd59c60d4
+  hasUnsyncedChanges: 1
