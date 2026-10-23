@@ -1,5 +1,12 @@
 {
   "dependencies": {
+    "com.ezgames.scenecollabtool": {
+      "version": "https://github.com/Explosivo30/UnitySceneCollaborationToolLite.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "f717282e0a6040f85e127421c907769a43040573"
+    },
     "com.unity.ai.navigation": {
       "version": "2.0.10",
       "depth": 0,
