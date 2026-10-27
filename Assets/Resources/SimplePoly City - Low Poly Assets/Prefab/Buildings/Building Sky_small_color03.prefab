@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 3300000}
   - component: {fileID: 2300000}
   - component: {fileID: -2606484442460806341}
+  - component: {fileID: -2008211631511488292}
   m_Layer: 0
   m_Name: Building Sky_small_color03
   m_TagString: Untagged
@@ -105,3 +106,24 @@ MonoBehaviour:
   m_EditorClassIdentifier: EZGames.SceneCollabTool::SceneObjectIdentifier
   UniqueID: bfeb38d2-43eb-4589-b72a-6e6f2584a8b2
   hasUnsyncedChanges: 1
+--- !u!65 &-2008211631511488292
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 100000}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 13.000001, y: 16.928885, z: 13.065448}
+  m_Center: {x: 0.000009059906, y: 8.464442, z: 0.475636}

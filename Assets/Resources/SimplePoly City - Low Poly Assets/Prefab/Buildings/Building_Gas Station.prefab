@@ -11,6 +11,8 @@ GameObject:
   - component: {fileID: 400000}
   - component: {fileID: 3300000}
   - component: {fileID: 2300000}
+  - component: {fileID: 7696494710625794174}
+  - component: {fileID: -8459573840799164295}
   m_Layer: 0
   m_Name: Building_Gas Station
   m_TagString: Untagged
@@ -90,3 +92,38 @@ MeshRenderer:
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!65 &7696494710625794174
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 100000}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 13.000006, y: 7.994399, z: 25.601995}
+  m_Center: {x: -0.06580925, y: 3.9971995, z: 2.4292269}
+--- !u!114 &-8459573840799164295
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 100000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 556b917640d1c1e49b9e3c35ca61bb24, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: EZGames.SceneCollabTool::SceneObjectIdentifier
+  UniqueID: 40cd2f0d-6734-418a-8c8d-0efa1d0acae7
+  hasUnsyncedChanges: 1

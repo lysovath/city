@@ -11,6 +11,8 @@ GameObject:
   - component: {fileID: 400000}
   - component: {fileID: 3300000}
   - component: {fileID: 2300000}
+  - component: {fileID: 109539009858165886}
+  - component: {fileID: 2839190106077005042}
   m_Layer: 0
   m_Name: Building_Drug Store
   m_TagString: Untagged
@@ -90,3 +92,38 @@ MeshRenderer:
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!65 &109539009858165886
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 100000}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 11.218784, y: 6.499003, z: 10.571994}
+  m_Center: {x: -0.00001859665, y: 3.2494767, z: 0.3619852}
+--- !u!114 &2839190106077005042
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 100000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 556b917640d1c1e49b9e3c35ca61bb24, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: EZGames.SceneCollabTool::SceneObjectIdentifier
+  UniqueID: 8f08b19b-d94b-4626-8492-28722353ecee
+  hasUnsyncedChanges: 1

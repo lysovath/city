@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 3300000}
   - component: {fileID: 2300000}
   - component: {fileID: 8930205289225064301}
+  - component: {fileID: -3275610091261562253}
   m_Layer: 0
   m_Name: Road Concrete Tile
   m_TagString: Untagged
@@ -105,3 +106,24 @@ MonoBehaviour:
   m_EditorClassIdentifier: EZGames.SceneCollabTool::SceneObjectIdentifier
   UniqueID: cdcb7ab1-cab3-4432-9b2a-dbc54b1f0171
   hasUnsyncedChanges: 1
+--- !u!65 &-3275610091261562253
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 100000}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 20, y: 0.0000008742278, z: 20}
+  m_Center: {x: 0, y: 0, z: 0}
