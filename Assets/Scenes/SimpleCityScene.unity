@@ -1515,7 +1515,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: EZGames.SceneCollabTool::SceneObjectIdentifier
   UniqueID: d531a42a-620c-4b56-8d8c-032c91e4a23f
-  hasUnsyncedChanges: 1
+  hasUnsyncedChanges: 0
 --- !u!1001 &54981708
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3263,7 +3263,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: EZGames.SceneCollabTool::SceneObjectIdentifier
   UniqueID: 246d0998-184d-4ad7-84f9-8478259ece86
-  hasUnsyncedChanges: 1
+  hasUnsyncedChanges: 0
 --- !u!1001 &112641591
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -6311,7 +6311,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: EZGames.SceneCollabTool::SceneObjectIdentifier
   UniqueID: 999d6a63-cb52-4aa0-8036-a1152521ee16
-  hasUnsyncedChanges: 1
+  hasUnsyncedChanges: 0
 --- !u!1001 &199209788
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -8794,7 +8794,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: EZGames.SceneCollabTool::SceneObjectIdentifier
   UniqueID: b58a60a6-501f-4696-a8b5-82f48ac56c11
-  hasUnsyncedChanges: 1
+  hasUnsyncedChanges: 0
 --- !u!1001 &275633241
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -11896,7 +11896,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: EZGames.SceneCollabTool::SceneObjectIdentifier
   UniqueID: c44f7806-a286-4755-821b-2d43cb120cd4
-  hasUnsyncedChanges: 1
+  hasUnsyncedChanges: 0
 --- !u!1001 &387720816
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -14771,7 +14771,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: EZGames.SceneCollabTool::SceneObjectIdentifier
   UniqueID: e869b224-98e2-42ec-ab4b-3517482b3e82
-  hasUnsyncedChanges: 1
+  hasUnsyncedChanges: 0
 --- !u!1001 &457854375
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -14996,7 +14996,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: EZGames.SceneCollabTool::SceneObjectIdentifier
   UniqueID: 83b2ca5e-08e3-4bef-a43a-e54666b744e1
-  hasUnsyncedChanges: 1
+  hasUnsyncedChanges: 0
 --- !u!1001 &462337888
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -15383,7 +15383,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: EZGames.SceneCollabTool::SceneObjectIdentifier
   UniqueID: 42d84586-e023-4d77-94a3-45a4cfba9fa7
-  hasUnsyncedChanges: 1
+  hasUnsyncedChanges: 0
 --- !u!1001 &475123786
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -16717,7 +16717,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: EZGames.SceneCollabTool::SceneObjectIdentifier
   UniqueID: 9e8b9520-b8dc-407e-8266-8a636e682a33
-  hasUnsyncedChanges: 1
+  hasUnsyncedChanges: 0
 --- !u!1001 &514845614
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -17159,7 +17159,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: EZGames.SceneCollabTool::SceneObjectIdentifier
   UniqueID: 14aa6f85-5a2d-47c8-8fd3-2c1aed4c98e3
-  hasUnsyncedChanges: 1
+  hasUnsyncedChanges: 0
 --- !u!1001 &530873608
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -18193,7 +18193,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: EZGames.SceneCollabTool::SceneObjectIdentifier
   UniqueID: 119612be-361b-48b2-8091-d2065b34408b
-  hasUnsyncedChanges: 1
+  hasUnsyncedChanges: 0
 --- !u!1001 &554717992
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -21604,7 +21604,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: EZGames.SceneCollabTool::SceneObjectIdentifier
   UniqueID: e09c473d-fcb2-457c-bc42-31bdc75610d8
-  hasUnsyncedChanges: 1
+  hasUnsyncedChanges: 0
 --- !u!1001 &650129951
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -21683,7 +21683,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: EZGames.SceneCollabTool::SceneObjectIdentifier
   UniqueID: a0c2c7dd-ba5b-4eaf-9f06-4513e67d2d35
-  hasUnsyncedChanges: 1
+  hasUnsyncedChanges: 0
 --- !u!1001 &652002381
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -25347,6 +25347,64 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3667b1c4d7f532647b9156782c0c80f0, type: 3}
+--- !u!1001 &758325337
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 389b9ea8dab633c4c92d98792ea170ac, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 121.48699
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 389b9ea8dab633c4c92d98792ea170ac, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.0217905
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 389b9ea8dab633c4c92d98792ea170ac, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 116.97405
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 389b9ea8dab633c4c92d98792ea170ac, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 389b9ea8dab633c4c92d98792ea170ac, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 389b9ea8dab633c4c92d98792ea170ac, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 389b9ea8dab633c4c92d98792ea170ac, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 389b9ea8dab633c4c92d98792ea170ac, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 389b9ea8dab633c4c92d98792ea170ac, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 389b9ea8dab633c4c92d98792ea170ac, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 389b9ea8dab633c4c92d98792ea170ac, type: 3}
+      propertyPath: m_Name
+      value: Blimp
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects:
+    - {fileID: -5167106939811937674, guid: 389b9ea8dab633c4c92d98792ea170ac, type: 3}
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 389b9ea8dab633c4c92d98792ea170ac, type: 3}
 --- !u!1001 &758420302
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -27043,7 +27101,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: EZGames.SceneCollabTool::SceneObjectIdentifier
   UniqueID: 96d4222a-286a-4458-9a1b-7c2a26398869
-  hasUnsyncedChanges: 1
+  hasUnsyncedChanges: 0
 --- !u!1001 &819537282
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -28624,7 +28682,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: EZGames.SceneCollabTool::SceneObjectIdentifier
   UniqueID: 9445e780-cc4c-4b6f-bac5-3761ce716dee
-  hasUnsyncedChanges: 1
+  hasUnsyncedChanges: 0
 --- !u!1001 &858121806
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -32004,7 +32062,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: EZGames.SceneCollabTool::SceneObjectIdentifier
   UniqueID: 3f43ad5e-a801-4a84-992b-d77735311999
-  hasUnsyncedChanges: 1
+  hasUnsyncedChanges: 0
 --- !u!1001 &981130904
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -34792,7 +34850,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: EZGames.SceneCollabTool::SceneObjectIdentifier
   UniqueID: 1b2f72e7-78bf-4b7d-be07-94175a920654
-  hasUnsyncedChanges: 1
+  hasUnsyncedChanges: 0
 --- !u!1001 &1084019414
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -35459,7 +35517,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: EZGames.SceneCollabTool::SceneObjectIdentifier
   UniqueID: b1405fbb-af35-4bfb-84c0-1145ec952452
-  hasUnsyncedChanges: 1
+  hasUnsyncedChanges: 0
 --- !u!1001 &1096307447
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -37732,7 +37790,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: EZGames.SceneCollabTool::SceneObjectIdentifier
   UniqueID: fce25bd4-aa1d-47d6-a4fa-20c0289e47c9
-  hasUnsyncedChanges: 1
+  hasUnsyncedChanges: 0
 --- !u!1001 &1148225924
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -41757,7 +41815,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: EZGames.SceneCollabTool::SceneObjectIdentifier
   UniqueID: 4a5b35e4-7552-4e94-a2a3-c6b5e84fb2d7
-  hasUnsyncedChanges: 1
+  hasUnsyncedChanges: 0
 --- !u!1001 &1256440184
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -43701,7 +43759,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: EZGames.SceneCollabTool::SceneObjectIdentifier
   UniqueID: f90c2ed2-068d-4a96-a0d6-fbe3f189737a
-  hasUnsyncedChanges: 1
+  hasUnsyncedChanges: 0
 --- !u!1001 &1288774995
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -45374,7 +45432,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: EZGames.SceneCollabTool::SceneObjectIdentifier
   UniqueID: 0f5710e7-4382-4d38-b79e-33641f21089b
-  hasUnsyncedChanges: 1
+  hasUnsyncedChanges: 0
 --- !u!1001 &1340653848
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -50668,7 +50726,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: EZGames.SceneCollabTool::SceneObjectIdentifier
   UniqueID: a9b38f57-b2c2-4ccd-b6ac-56db4ff0b2db
-  hasUnsyncedChanges: 1
+  hasUnsyncedChanges: 0
 --- !u!1001 &1469305653
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -55707,7 +55765,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: EZGames.SceneCollabTool::SceneObjectIdentifier
   UniqueID: 401a4d32-3509-4d18-a87c-dd66f8cc8275
-  hasUnsyncedChanges: 1
+  hasUnsyncedChanges: 0
 --- !u!1001 &1654988448
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -56710,6 +56768,64 @@ MonoBehaviour:
   m_EditorClassIdentifier: EZGames.SceneCollabTool::SceneObjectIdentifier
   UniqueID: a6a81e43-0022-4181-be0b-e2d25e0787e6
   hasUnsyncedChanges: 0
+--- !u!1001 &1670572098
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 48b972c9c7eebe343bb70fa3b83ee422, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 157.42326
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 48b972c9c7eebe343bb70fa3b83ee422, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 17.86596
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 48b972c9c7eebe343bb70fa3b83ee422, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 102.901924
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 48b972c9c7eebe343bb70fa3b83ee422, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 48b972c9c7eebe343bb70fa3b83ee422, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 48b972c9c7eebe343bb70fa3b83ee422, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 48b972c9c7eebe343bb70fa3b83ee422, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 48b972c9c7eebe343bb70fa3b83ee422, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 48b972c9c7eebe343bb70fa3b83ee422, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 48b972c9c7eebe343bb70fa3b83ee422, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 48b972c9c7eebe343bb70fa3b83ee422, type: 3}
+      propertyPath: m_Name
+      value: Blimp (2)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects:
+    - {fileID: 7146896071627977888, guid: 48b972c9c7eebe343bb70fa3b83ee422, type: 3}
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 48b972c9c7eebe343bb70fa3b83ee422, type: 3}
 --- !u!1001 &1670735641
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -56788,7 +56904,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: EZGames.SceneCollabTool::SceneObjectIdentifier
   UniqueID: 98cfa48e-649b-431d-b683-c68dd31ace87
-  hasUnsyncedChanges: 1
+  hasUnsyncedChanges: 0
 --- !u!1001 &1673984685
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -57463,7 +57579,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: EZGames.SceneCollabTool::SceneObjectIdentifier
   UniqueID: 1d5c97c7-3c7f-4302-8273-7f991c09ed2a
-  hasUnsyncedChanges: 1
+  hasUnsyncedChanges: 0
 --- !u!1001 &1694949463
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -61093,7 +61209,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: EZGames.SceneCollabTool::SceneObjectIdentifier
   UniqueID: 65f9d35e-49e7-4d40-8d35-85c3e02f9615
-  hasUnsyncedChanges: 1
+  hasUnsyncedChanges: 0
 --- !u!1001 &1803301414
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -63164,6 +63280,92 @@ MonoBehaviour:
   m_EditorClassIdentifier: EZGames.SceneCollabTool::SceneObjectIdentifier
   UniqueID: f03658a2-5ed5-468b-8f3b-7c266174a813
   hasUnsyncedChanges: 0
+--- !u!1001 &1859355669
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 389b9ea8dab633c4c92d98792ea170ac, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 95.34804
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 389b9ea8dab633c4c92d98792ea170ac, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 309
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 389b9ea8dab633c4c92d98792ea170ac, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 131.8
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 389b9ea8dab633c4c92d98792ea170ac, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 389b9ea8dab633c4c92d98792ea170ac, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 389b9ea8dab633c4c92d98792ea170ac, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 389b9ea8dab633c4c92d98792ea170ac, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 389b9ea8dab633c4c92d98792ea170ac, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 389b9ea8dab633c4c92d98792ea170ac, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 389b9ea8dab633c4c92d98792ea170ac, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8483819828659974900, guid: 389b9ea8dab633c4c92d98792ea170ac, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.07380998
+      objectReference: {fileID: 0}
+    - target: {fileID: -8483819828659974900, guid: 389b9ea8dab633c4c92d98792ea170ac, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.07380998
+      objectReference: {fileID: 0}
+    - target: {fileID: -8483819828659974900, guid: 389b9ea8dab633c4c92d98792ea170ac, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.07380998
+      objectReference: {fileID: 0}
+    - target: {fileID: -8483819828659974900, guid: 389b9ea8dab633c4c92d98792ea170ac, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 9.4412
+      objectReference: {fileID: 0}
+    - target: {fileID: -8483819828659974900, guid: 389b9ea8dab633c4c92d98792ea170ac, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -169.3673
+      objectReference: {fileID: 0}
+    - target: {fileID: -8483819828659974900, guid: 389b9ea8dab633c4c92d98792ea170ac, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 66.9482
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 389b9ea8dab633c4c92d98792ea170ac, type: 3}
+      propertyPath: m_Name
+      value: Blimp (1)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects:
+    - {fileID: 6472873859661435160, guid: 389b9ea8dab633c4c92d98792ea170ac, type: 3}
+    - {fileID: -6714137926721482627, guid: 389b9ea8dab633c4c92d98792ea170ac, type: 3}
+    - {fileID: 262550719730253529, guid: 389b9ea8dab633c4c92d98792ea170ac, type: 3}
+    - {fileID: -7923042561059316382, guid: 389b9ea8dab633c4c92d98792ea170ac, type: 3}
+    - {fileID: 4405820841171174114, guid: 389b9ea8dab633c4c92d98792ea170ac, type: 3}
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 389b9ea8dab633c4c92d98792ea170ac, type: 3}
 --- !u!1001 &1862549814
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -63815,6 +64017,87 @@ MonoBehaviour:
   m_EditorClassIdentifier: EZGames.SceneCollabTool::SceneObjectIdentifier
   UniqueID: 7b02d66c-bfbf-4700-91aa-0701adc1babe
   hasUnsyncedChanges: 0
+--- !u!1001 &1884319991
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 2ba37255a1ce1174b99f56515d2e2a6a, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 158.46143
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2ba37255a1ce1174b99f56515d2e2a6a, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 68.2
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2ba37255a1ce1174b99f56515d2e2a6a, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 19.5
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2ba37255a1ce1174b99f56515d2e2a6a, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2ba37255a1ce1174b99f56515d2e2a6a, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2ba37255a1ce1174b99f56515d2e2a6a, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2ba37255a1ce1174b99f56515d2e2a6a, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2ba37255a1ce1174b99f56515d2e2a6a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2ba37255a1ce1174b99f56515d2e2a6a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2ba37255a1ce1174b99f56515d2e2a6a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2ba37255a1ce1174b99f56515d2e2a6a, type: 3}
+      propertyPath: m_Name
+      value: Blimp (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3284353343207423045, guid: 2ba37255a1ce1174b99f56515d2e2a6a, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 2.4531
+      objectReference: {fileID: 0}
+    - target: {fileID: 3284353343207423045, guid: 2ba37255a1ce1174b99f56515d2e2a6a, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2.4531
+      objectReference: {fileID: 0}
+    - target: {fileID: 3284353343207423045, guid: 2ba37255a1ce1174b99f56515d2e2a6a, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 2.4531
+      objectReference: {fileID: 0}
+    - target: {fileID: 3284353343207423045, guid: 2ba37255a1ce1174b99f56515d2e2a6a, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.5286
+      objectReference: {fileID: 0}
+    - target: {fileID: 3284353343207423045, guid: 2ba37255a1ce1174b99f56515d2e2a6a, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 13.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 3284353343207423045, guid: 2ba37255a1ce1174b99f56515d2e2a6a, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 3.6791
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2ba37255a1ce1174b99f56515d2e2a6a, type: 3}
 --- !u!1001 &1885104998
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -66679,7 +66962,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: EZGames.SceneCollabTool::SceneObjectIdentifier
   UniqueID: 25f667c9-af01-4aa9-818c-47b7705b85ed
-  hasUnsyncedChanges: 1
+  hasUnsyncedChanges: 0
 --- !u!1001 &1959984966
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -67780,7 +68063,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: EZGames.SceneCollabTool::SceneObjectIdentifier
   UniqueID: e8ff22e7-7d55-4b84-ad46-5e1a356193c1
-  hasUnsyncedChanges: 1
+  hasUnsyncedChanges: 0
 --- !u!1001 &1994871853
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -71991,6 +72274,63 @@ MonoBehaviour:
   m_EditorClassIdentifier: EZGames.SceneCollabTool::SceneObjectIdentifier
   UniqueID: 19781b06-e2c2-431b-a22e-af53b004d239
   hasUnsyncedChanges: 0
+--- !u!1001 &2096622236
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 2ba37255a1ce1174b99f56515d2e2a6a, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 268.4
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2ba37255a1ce1174b99f56515d2e2a6a, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 103.3
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2ba37255a1ce1174b99f56515d2e2a6a, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 68.65707
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2ba37255a1ce1174b99f56515d2e2a6a, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2ba37255a1ce1174b99f56515d2e2a6a, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2ba37255a1ce1174b99f56515d2e2a6a, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2ba37255a1ce1174b99f56515d2e2a6a, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2ba37255a1ce1174b99f56515d2e2a6a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2ba37255a1ce1174b99f56515d2e2a6a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2ba37255a1ce1174b99f56515d2e2a6a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2ba37255a1ce1174b99f56515d2e2a6a, type: 3}
+      propertyPath: m_Name
+      value: Blimp (4)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2ba37255a1ce1174b99f56515d2e2a6a, type: 3}
 --- !u!1001 &2097572594
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -74381,3 +74721,8 @@ SceneRoots:
   - {fileID: 1693077288}
   - {fileID: 474751557}
   - {fileID: 641620513}
+  - {fileID: 758325337}
+  - {fileID: 1859355669}
+  - {fileID: 1670572098}
+  - {fileID: 1884319991}
+  - {fileID: 2096622236}
